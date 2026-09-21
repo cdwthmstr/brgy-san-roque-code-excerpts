@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-[What's Here](#-whats-here) &middot; [Why These Two](#-why-these-two) &middot; [About the Full System](#-about-the-full-system)
+[What's Here](#-whats-here) &middot; [Why These Two](#-why-these-two) &middot; [About the Full System](#-about-the-full-system) &middot; [Developer](#-developer)
 
 </div>
 
@@ -48,6 +48,18 @@ Out of a backend spanning 12 database models and thousands of lines across servi
 - A full React/MUI frontend
 
 None of the above is included in this repository. The complete source lives in a private repository, since this is an active capstone system built around real barangay resident data.
+
+## <img src="https://api.iconify.design/tabler:code.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> Developer
+
+<table>
+  <tr>
+    <td><a href="https://github.com/cdwthmstr"><img src="https://github.com/cdwthmstr.png" width="60" style="border-radius:50%" /></a></td>
+    <td>
+      <strong><a href="https://github.com/cdwthmstr">@cdwthmstr</a></strong><br />
+      <sub>Developer, Team ERROR 404</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
