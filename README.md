@@ -4,14 +4,18 @@
 
 **Selected source code from a BSIT capstone project's Family Tree and Data Analytics modules**
 
+<p align="center">
 <img src="https://img.shields.io/badge/status-code%20excerpts-2d4a9e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/source-not%20the%20full%20system-c0392b?style=for-the-badge" />
 <img src="https://img.shields.io/badge/team-ERROR%20404-1a2440?style=for-the-badge" />
+</p>
 
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 
 [What's Here](#-whats-here) &middot; [Why These Two](#-why-these-two) &middot; [About the Full System](#-about-the-full-system)
 
