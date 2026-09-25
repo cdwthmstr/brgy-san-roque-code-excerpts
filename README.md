@@ -38,7 +38,7 @@ Out of a backend spanning 12 database models and thousands of lines across servi
 
 ## <img src="https://api.iconify.design/tabler:building-community.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> About the Full System
 
-**Web-Based Family Tree System for Household Profiling, Resident Verification with Data Analytics for Barangay San Roque** replaces manual, paper-based barangay record-keeping with a centralized web platform. The complete system additionally includes:
+**Web-Based Family Tree System for Household Profiling, Resident Verification with Data Analytics for Barangay San Roque** is built to replace manual, paper-based barangay record-keeping with a centralized web platform. The complete system additionally includes:
 
 - Resident verification workflow (verify, reject, duplicate detection)
 - Certificate request, approval, and issuance
@@ -47,7 +47,7 @@ Out of a backend spanning 12 database models and thousands of lines across servi
 - Staff authentication and role-based access
 - A full React/MUI frontend
 
-None of the above is included in this repository. The complete source lives in a private repository, since this is an active capstone system built around real barangay resident data.
+None of the above is included in this repository. The complete source lives in a private repository, built and tested using real (and sample) barangay resident data, with actual adoption still pending the barangay's approval.
 
 ## <img src="https://api.iconify.design/tabler:code.svg?color=%232d4a9e&width=24" width="20" style="vertical-align:middle" /> Developer
 
